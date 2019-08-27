@@ -1,0 +1,22 @@
+{
+    "name": "zhaoxin1990demo",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/317329584/npmModuleDemo.git"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "zhaoxin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/317329584/npmModuleDemo/issues"
+    },
+    "homepage": "https://github.com/317329584/npmModuleDemo#readme"
+}
